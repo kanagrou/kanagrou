@@ -1,1 +1,1 @@
-![Kanagroo](assets/github-header)
+![Kanagroo](assets/github-header.png)
