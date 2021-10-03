@@ -1,2 +1,3 @@
 ![Kanagroo](assets/github-header.png)
-### [Website](https://kanagroo.github.io/)
+### Hey!
+# Go check out my [Website](https://kanagroo.github.io/)
