@@ -1,4 +1,4 @@
-![Kanagroo](assets/github-header.png)
+![Kanagroo](assets/header.png)
 # Hey!
 ### Go check out my [Page](https://kanagroo.github.io/)
 
