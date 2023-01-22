@@ -1,9 +1,9 @@
 ![Kanagroo](assets/header.png)
 
-# About
+## :wave: Hello
 I make things for fun and upload them here sometimes
 
-## Tools I use
+## :hammer_and_wrench: Tools I use
 ### Systems programming
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
@@ -16,6 +16,6 @@ I make things for fun and upload them here sometimes
 ### IDEs
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## Platforms
+## :mag_right: Find me
 
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/bonjourravecdeuxr/)
